@@ -102,3 +102,23 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode/**
+
+# original params
+FCN_mse
+classifier.pkl
+
+# results not in results dir
+anim.gif
+anim.mp4
+
+# datasets
+datasets/**
+
+# backups
+backup/**
+
+# intermediate images
+intermediate/**
